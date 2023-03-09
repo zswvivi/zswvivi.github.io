@@ -226,6 +226,9 @@ blockquote footer {
   text-align: center;
 }
 
+#col-sm-8 {
+text-align: justify;
+}
 iframe {
   padding: 3px;
   border: 1px solid lightgray;
