@@ -85,6 +85,10 @@
               <td><i class="fa fa-github-square"></i></td>
               <td><a href="https://github.com/zswvivi">GitHub</a></td>
             </tr>
+             <tr>
+              <td><i class="fas fa-laugh"></i></td>
+              <td><a href="/img/CV.pdf">My CV</a></td>
+            </tr>
           </tbody>
         </table>
 
