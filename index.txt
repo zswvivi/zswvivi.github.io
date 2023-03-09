@@ -95,7 +95,7 @@
       </div>
       <div class="col-sm-8">
 
-        <p>With a PhD in computer science and seven years of experience in researching and developing <b>natural language processing (NLP)</b> models, I have spent the last two years as a <b>medical NLP</b> researcher at Tencent Jarvis lab. My doctoral research focused on NLP issues related to social media, including sentiment analysis, text classification, irony detection, and product-related question answering. Currently, I am working on projects that leverage cutting-edge AI models to enhance medical applications, such as the intelligent medical pre-consultation system and the disease self-diagnosis system, with the aim of making them more accessible and powerful.</p>
+        <p align="justify">With a PhD in computer science and seven years of experience in researching and developing <b>natural language processing (NLP)</b> models, I have spent the last two years as a <b>medical NLP</b> researcher at Tencent Jarvis lab. My doctoral research focused on NLP issues related to social media, including sentiment analysis, text classification, irony detection, and product-related question answering. Currently, I am working on projects that leverage cutting-edge AI models to enhance medical applications, such as the intelligent medical pre-consultation system and the disease self-diagnosis system, with the aim of making them more accessible and powerful.</p>
 
         <h3 class="push-down-3"><span>Education</span></h3>
 
