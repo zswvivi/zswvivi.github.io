@@ -110,20 +110,20 @@ h4, h5, h6 {
   background-repeat: no-repeat;
   background-position: top left;
   width: 100%;
-  min-height: 200px;
+  min-height: 650px;
 }
 
 #projects .panel-heading.proj-1 {
-  background-image: url(https://unsplash.it/300/200);
+  background-image: url("rda.png");
 }
 #projects .panel-heading.proj-2 {
-  background-image: url(https://unsplash.it/300/200);
+  background-image: url("cmt5.png");
 }
 #projects .panel-heading.proj-3 {
-  background-image: url(https://unsplash.it/300/200);
+  background-image: url("ehr.png");
 }
 #projects .panel-heading.proj-4 {
-  background-image: url(https://unsplash.it/300/200);
+  background-image: url("sym.png");
 }
 #projects .panel-heading.proj-5 {
   background-image: url(https://unsplash.it/300/200);
