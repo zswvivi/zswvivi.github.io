@@ -96,7 +96,9 @@
 
       <div class="col-sm-8">
 
-        <p align="justify"> Shiwei Zhang is a highly skilled and experienced PhD in Computer Science who possesses seven years of expertise in researching and developing natural language processing (NLP) models. During his doctoral research, he focused on NLP issues related to social media, including sentiment analysis, text classification, irony detection, and product-related question answering. For the past two years, he has been serving as a medical NLP researcher at Tencent Jarvis lab, spearheading projects that employ cutting-edge AI models to reinforce medical applications like the intelligent medical pre-consultation system and the disease self-diagnosis system.</p>
+        <p align="justify"> Hello, welcome to my academic website! My name is Shiwei Zhang (张世伟), but you can call me Shiwei (pronounced as "shin way"). I am a highly skilled and experienced Ph.D. in natural language processing (NLP) who earned my degree from RMIT University in Melbourne, Australia. Previously, I worked at Tencent Jarvis Lab as a medical NLP researcher for around two years and currently hold the position of research associate at RMIT University.
+As the impact of AI on various aspects of our world continues to grow, more people are becoming aware of the rapid progress being made and are concerned about AI safety. The applications of large language models (LLMs) are increasing, including those with both good and bad purposes. The impact of AI might be comparable to the industrial and scientific revolutions. Even if it has negative impacts, AI progress is expected to continue.
+As an NLP researcher, I am interested in developing methods for training AI systems to robustly behave and steerable text generation. One of the mottos that inspires me to pursue a career in AI is a quote by Dolores Abernathy from the TV series "Westworld": "Some people choose to see the ugliness in this world. I choose to see the beauty." I aspire to develop AI technologies that can enhance people's lives.</p>
         <h3 class="push-down-3"><span>Education</span></h3>
 
         <ul id="education">
