@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Metadata for the Webpage -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shiwei Zhang, Ph.D.</title>
+
+  <!-- Favicons -- We recommend this site for generating favicons: https://www.favicon-generator.org/ -->
+  <link rel="apple-touch-icon" sizes="57x57" href="favicons/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="favicons/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="favicons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="favicons/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="favicons/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="favicons/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="favicons/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="favicons/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicons/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="favicons/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="favicons/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicons/favicon-16x16.png">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+
+  <!-- Bootstrap CSS files-->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
+
+  <!-- jQuery UI CSS (optional) -->
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+
+  <!-- Google web fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600" rel="stylesheet">
+
+  <!-- Font Awesome Web Icons -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- Academicons Courtesy of https://jpswalsh.github.io/academicons/ -->
+  <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+  <!-- Local styles -->
+  <link rel="stylesheet" href="css/main.css">
+
+</head>
+
+<body>
+
+  <!-- navbar include -->
+  <div id="navbar-include"></div>
+
+  <div class="spacer-div-3 hidden-xs hidden-xs"></div>
+
+  <!-- Main content    -->
+  <div id="main-container" class="container">
+
+
+    <div class="row">
+      <div class="col-sm-4">
+        <img class="center-block img img-responsive" src="img/my.jpg" alt="Image of Shiwei">
+
+        <p id="title">NLP Researcher<br>
+          <span id="program">Computer Science</span>
+        </p>
+
+        <table class="table" id="contact-table">
+          <tbody>
+            <tr>
+              <td><i class="fas fa-at"></i></td>
+              <td><a href="mailto:dr.shiwei.zhang@gmail.com">dr.shiwei.zhang@gmail.com</a></td>
+            </tr>
+            <tr>
+              <td><i class="fa fa-linkedin-square"></i></td>
+              <td><a href="https://linkedin.com/in/zhangshiwei">LinkedIn</a></td>
+            </tr>
+            <tr>
+              <td><i class="fa fa-google"></i></td>
+              <td><a href="https://scholar.google.com/citations?user=-RqIengAAAAJ&hl=en">Google Scholar</a></td>
+            </tr>
+            <tr>
+              <td><i class="fa fa-github-square"></i></td>
+              <td><a href="https://github.com/zswvivi">GitHub</a></td>
+            </tr>
+             <tr>
+              <td><i class="fas fa-laugh"></i></td>
+              <td><a href="/img/CV.pdf">My CV</a></td>
+            </tr>
+          </tbody>
+        </table>
+
+      </div>
+
+      <div class="col-sm-8">
+
+        <p align="justify"> Hello, welcome to my academic website! My name is Shiwei Zhang (张世伟), but you can call me Shiwei (pronounced as "shin way"). I am a highly skilled and experienced natural language processing (NLP) researcher/engineer who earned a Ph.D. degree from RMIT University in Melbourne, Australia. Previously, I worked at Tencent Jarvis Lab as an applied medical NLP researcher for around two years and currently hold the position of research associate at RMIT University.</p>
+
+<p align="justify"> As the impact of AI on various aspects of our world continues to grow, more people are becoming aware of the rapid progress being made and are concerned about AI safety. The applications of large language models (LLMs) are increasing, including those with both good and bad purposes. The impact of AI might be comparable to the industrial and scientific revolutions. Even if it has negative impacts, AI progress is expected to continue.</p>
+
+<p align="justify"> As an NLP researcher, I am interested in developing methods for training AI systems to robustly behave well and developing decoding, post-processing, as well as prompt-based methods for steerable text generation.  In the popular TV series "Westworld", Dolores Abernathy is an AI host created by the "Westworld" corporation to provide guests with a realistic and consequence-free experience. One of her notable lines from the show is "Some people choose to see the ugliness in this world. I choose to see the beauty." While the advancement of AI technology may have negative impacts on society, I firmly believe that most AI researchers are working towards developing systems that are safe, reliable, helpful, and non-harmful. I aspire to contribute to this goal by developing AI technologies that can improve people's lives. </p>
+        <h3 class="push-down-3"><span>Education</span></h3>
+
+        <ul id="education">
+          <li>
+            <strong>Ph.D. in Computer Science (June 2016 – March 2021)</strong><br>
+            <span class="university"><em>RMIT University, Melbourne, Australia</em></span><br>
+            <span> Supervisory Team: Professor Xiuzhen (Jenny) Zhang, Dr. Jey Han Lau, Associate Professor Jeffrey Chan, Dr. Cecile Paris </span><br>
+            <span> Dissertation: Mining User-Generated Texts via Neural Classification </span>
+          </li>
+          <li>
+            <strong>Master in Computer Science (August 2009 – March 2012)</strong><br>
+            <span class="university"><em>The University of Melbourne, Melbourne, Australia</em></span>
+          </li>
+          <li>
+            <strong>Bachelor in Computer Science (September 2003 – June 2007)</strong><br>
+            <span class="university"><em>Hunan University, Changsha, China</em></span>
+          </li>
+        </ul>
+
+        <h3 class="push-down-3"><span>Work</span></h3>
+
+        <ul id="education">
+          <li>
+            <strong>Research Associate (Casual, March 2023 – Present)</strong><br>
+            <span class="company"><em>RMIT University & The Australian Research Data Commons (ARDC), Melbourne, Australia</em></span><br>
+            <br>
+            <span>- Analyse the search records and feedback gathered from Research Data Australia (RDA) users to acquire a better understanding of their objectives and assess the quality of RDA’s search services.</span><br>
+            <br>
+            <span>- Construct prompts and utilize LLMs to classify RDA user search queries based on ANZSRC schema, and examine the information requirements of RDA users.</span><br>
+            <br>
+            <span>- Provide guidance to a doctoral student on the use of prompt-based techniques with LLMs for product-related QA.</span>
+          </li>
+
+          <li>
+            <strong>Applied Medical NLP Researcher (June 2021 – January 2023)</strong><br>
+            <span class="company"><em>Tencent Jarvis Lab, Shenzhen, China</em></span><br>
+            <br>
+            <span>- Research and develop medical multi-task generative models and methods for controllable text generation. <a href="https://huggingface.co/spaces/zswvivi/ChineseMedicalT5">Demo</a> </span><br>
+            <br>
+            <span>- Develop and deploy innovative NLP models for our AI-powered medical applications, with a top conference paper published.</span><br>
+            <br>
+            <span>- Mentor Master's and Ph.D. students on developing deep learning models for healthcare-related problems, with one top conference paper published.</span>
+          </li>
+          <li>
+            <strong>Research Assistant (November 2020 – March 2021)</strong><br>
+            <span class="company"><em>RMIT University, Melbourne, Australia</em></span><br>
+            <li>- Conduct experiments to investigate whether using question-answering tasks as intermediate training tasks can benefit text classification.<li>
+            <li>- Examine the outcomes of the experiments, outline the discoveries, and compose a scholarly article.<li>
+          </li>
+          <li>
+            <strong>Data Analyst (August 2016 – June 2017)</strong><br>
+            <span class="company"><em>Telstra Health, Melbourne, Australia</em></span><br>
+            <br>
+            <span>- Write SQL scripts to perform data cleaning, database management, and data analysis.</span>
+          </li>
+        </ul>
+
+        <h3 class="push-down-3"><span>Awards</span></h3>
+        <ul id="education">
+        <li>🏆 <a href="/img/melbourne_datathon.jpeg">1st place in Melbourne Datathon</a>  </li>
+        <li>🏆 <a href="/img/ipm_certificate.pdf">IP&M Best Paper Award</a> </li>
+        </ul>
+
+        <h3 class="push-down-3"><span> Scholarships </span></h3>
+        <ul id="education">
+        <li> RMIT Research Stipend Scholarship </li>
+        <li> CSIRO Data61 Top-up Scholarship  </a> </li>
+        </ul>
+
+        <h3 class="push-down-3"><span>Skills</span></h3>
+        <ul id="education">
+        <li>NLP: Text Generation, Text Matching, Text Classification</li>
+        <li>Deep Learning: Hugging Face, PyTorch, TensorFlow</li>
+        <li>Software Development:  GitHub, Docker, Linux, Python, <a href="/img/eCertificate_Java.pdf">Oracle Certified Java Developer</a>, <a href="/img/eCertificate_SQL.pdf">Oracle Certified SQL Expert</a></li>
+        <li>Data Analysis: R, Matplotlib;</li>
+        </ul>
+
+        
+      
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Back-to-top button -->
+  <a role="button" id="topper" data-toggle="tooltip" data-placement="top" title="Top" class="btn scroll-link" href="#top"><i class="fa fa-fw fa-2x fa-caret-up" aria-hidden="true"></i></a>
+
+
+  <!-- footer include -->
+  <div w3-include-html="footer.html"></div>
+
+  <!-- jQuery -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <!-- Bootstrap JS Library -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+
+  <!-- html file include script | used for navbar and footer -->
+  <script src="js/w3data.js"></script>
+  <script>
+    w3IncludeHTML()
+  </script>
+
+  <!-- Local scripts -->
+  <script src="js/main.js"></script>
+
+  <script>
+    $(document).ready(function() {
+
+      $("#navbar-include").load("navbar.html", function() {
+        console.log("Navbar loaded.");
+      });
+
+    });
+  </script>
+
+</body>
+
+</html>
