@@ -482,3 +482,32 @@ dd {
   background-color: #1585cf;
   opacity: .8;
 }
+
+
+/* Image Display Gallery */
+/* Image Display Gallery ----------------------------------------------------- */
+
+.image-container {
+  display: flex;
+  align-items: center;
+}
+
+.image-container img {
+  width: 70%;
+}
+
+.description {
+  flex: 1;
+  margin-left: 20px;
+}
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.gallery img {
+  width: 25%;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
