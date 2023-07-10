@@ -90,10 +90,9 @@
       			</div>
       			<div class="panel-body">
               <h5>ARDC User Study of Data Discovery: RDA search log and survey analysis</h5>
-              <p><strong>The objective: </strong> This project is to utilize the search logs and user survey data gathered from Research Data Australia (RDA) to acquire a deeper understanding of the user intentions and evaluate the quality of RDA's search services.</p>
-              <p><strong>The challenges: </strong> User queries can be ambiguous and contain noise, and there is a lack of annotated data available for supervised training.</p>
-              <p><strong>Our approach: </strong> Construct prompts and leverage LLMs to classify user queries. To confine predictions within the ANZSRC code framework, our approach entails adapting decoding and post-processing techniques. </p>
-              <p><strong>Demo: </strong> is coming soon.</p> 
+              <p><strong>The objective: </strong> The purpose of this project is to perform data analysis on four different types of datasets obtained from Research Data Australia (RDA). These datasets include RDA search logs, which record user interactions during data searches on RDA, Google logs from the Google console that show queries leading Google users to RDA, RDA surveys conducted on the RDA portal, and RDA collection records available in the RDA catalog. Through this data analysis, our goal is to determine the alignment of content and the quality of searches on RDA.</p>
+              <p><strong>Our approach: </strong> To analyze content alignment, we categorized queries into top-level ANZSRC-FoR categories. We employed a large language model (LLM) and developed a customized prompt to classify various types of queries, including RDA search queries, Google queries, RDA survey queries, and RDA collection records. Our goal was to identify the specific information sought by users.  To assess search quality, we manually selected queries submitted by survey participants. We divided them into two groups: the first group consisted of queries that resulted in at least one click or a record/page view from a search result, while the second group included queries that did not generate any clicks. For each query, we analyzed the top ten matched records listed in the search log to evaluate their relevance to the corresponding query. </p>
+
 </div>
       		</div>
       	</div>
